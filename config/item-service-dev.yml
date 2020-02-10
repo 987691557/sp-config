@@ -11,5 +11,12 @@ eureka:
       defaultZone: http://eureka1:2001/eureka,http://eureka2:2002/eure
     
 
+  rabbitmq:
+    host: 192.168.64.140
+    port: 5672
+    username: admin
+    password: admin
+
+
 
       
